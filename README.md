@@ -1,5 +1,5 @@
 
-## ✅ Requisitos
+## Requisitos
 
 Antes de iniciar, verifique se você tem instalado:
 
@@ -9,7 +9,7 @@ Antes de iniciar, verifique se você tem instalado:
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## Como Rodar o Projeto
 
 1. **Clone o repositório:**
 
