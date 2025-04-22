@@ -76,3 +76,5 @@ npm install --save-dev sass
 ```
 
 ---
+
+Grupo: Pedro Henrique Vaz 22027136-2, Pedro Henrique de Miranda 22093949-2
